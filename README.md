@@ -21,6 +21,8 @@ Para rodar o projeto basta abrir seu diretório e executar os comandos
 Utilizar a URL gerada pelo Ngrok no comando de incialização do Tunnel no arquivo "jsonServer.js" no projeto Blog App
 
 ```bash
+npm install
+
 npm run db
 
 npm run tunnel
